@@ -1,0 +1,2258 @@
+envs.single_observation_space.shape (4,)
+envs.single_action_space.n 2
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+Moviepy - Building video /home/han/Documents/ppo/videos/CartPole-v1_ppo_1_1685076971/rl-video-episode-0.mp4.
+Moviepy - Writing video /home/han/Documents/ppo/videos/CartPole-v1_ppo_1_1685076971/rl-video-episode-0.mp4
+Moviepy - Done !
+Moviepy - video ready /home/han/Documents/ppo/videos/CartPole-v1_ppo_1_1685076971/rl-video-episode-0.mp4
+{'final_observation': array([array([-0.09823681, -0.98389095,  0.24220432,  1.757355  ], dtype=float32),
+       None, None, None], dtype=object), '_final_observation': array([ True, False, False, False]), 'final_info': array([{'episode': {'r': 11.0, 'l': 11, 't': 0.805401}}, None, None, None],
+      dtype=object), '_final_info': array([ True, False, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None,
+       array([-0.1278444 , -0.01290857,  0.2096425 ,  0.43497506], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 28.0, 'l': 28, 't': 0.938171}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{}
+{}
+{'final_observation': array([None, None, None,
+       array([ 0.21857098,  0.6133205 , -0.22961651, -1.410887  ], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False, False,  True]), 'final_info': array([None, None, None, {'episode': {'r': 31.0, 'l': 31, 't': 0.945069}}],
+      dtype=object), '_final_info': array([False, False, False,  True])}
+{'final_observation': array([None,
+       array([-0.05742807,  0.00241686,  0.23485938,  1.0542762 ], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([False,  True, False, False]), 'final_info': array([None, {'episode': {'r': 32.0, 'l': 32, 't': 0.947833}}, None, None],
+      dtype=object), '_final_info': array([False,  True, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+Moviepy - Building video /home/han/Documents/ppo/videos/CartPole-v1_ppo_1_1685076971/rl-video-episode-1.mp4.
+Moviepy - Writing video /home/han/Documents/ppo/videos/CartPole-v1_ppo_1_1685076971/rl-video-episode-1.mp4
+Moviepy - Done !
+Moviepy - video ready /home/han/Documents/ppo/videos/CartPole-v1_ppo_1_1685076971/rl-video-episode-1.mp4
+{'final_observation': array([array([ 0.12211636,  0.94503534, -0.23256026, -1.7091957 ], dtype=float32),
+       None, None, None], dtype=object), '_final_observation': array([ True, False, False, False]), 'final_info': array([{'episode': {'r': 29.0, 'l': 29, 't': 0.96397}}, None, None, None],
+      dtype=object), '_final_info': array([ True, False, False, False])}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None, None,
+       array([-0.16830947, -1.9222002 ,  0.2160599 ,  2.962261  ], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False, False,  True]), 'final_info': array([None, None, None, {'episode': {'r': 14.0, 'l': 14, 't': 1.035007}}],
+      dtype=object), '_final_info': array([False, False, False,  True])}
+{}
+{'final_observation': array([None,
+       array([-0.08634201, -0.19373721,  0.22307691,  0.6955915 ], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([False,  True, False, False]), 'final_info': array([None, {'episode': {'r': 15.0, 'l': 15, 't': 1.037319}}, None, None],
+      dtype=object), '_final_info': array([False,  True, False, False])}
+{'final_observation': array([None, None,
+       array([ 0.14108017,  0.3911293 , -0.2216115 , -1.051376  ], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 20.0, 'l': 20, 't': 1.038022}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([array([-0.10890573, -0.802164  ,  0.21507747,  1.494363  ], dtype=float32),
+       None, None, None], dtype=object), '_final_observation': array([ True, False, False, False]), 'final_info': array([{'episode': {'r': 14.0, 'l': 14, 't': 1.044368}}, None, None, None],
+      dtype=object), '_final_info': array([ True, False, False, False])}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None,
+       array([ 0.13694477,  0.5973015 , -0.22396065, -1.0647583 ], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([False,  True, False, False]), 'final_info': array([None, {'episode': {'r': 13.0, 'l': 13, 't': 1.048766}}, None, None],
+      dtype=object), '_final_info': array([False,  True, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None, None,
+       array([-0.1496668 , -0.22969517,  0.21213417,  0.7946747 ], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False, False,  True]), 'final_info': array([None, None, None, {'episode': {'r': 27.0, 'l': 27, 't': 1.058038}}],
+      dtype=object), '_final_info': array([False, False, False,  True])}
+{}
+{'final_observation': array([array([-0.17194465, -0.75250196,  0.21947168,  1.3050947 ], dtype=float32),
+       None, None, None], dtype=object), '_final_observation': array([ True, False, False, False]), 'final_info': array([{'episode': {'r': 20.0, 'l': 20, 't': 1.061492}}, None, None, None],
+      dtype=object), '_final_info': array([ True, False, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None,
+       array([ 0.0686342 , -0.15462245, -0.22008054, -0.4909653 ], dtype=float32),
+       None,
+       array([ 0.14350972,  0.24795493, -0.21840732, -0.6454227 ], dtype=float32)],
+      dtype=object), '_final_observation': array([False,  True, False,  True]), 'final_info': array([None, {'episode': {'r': 25.0, 'l': 25, 't': 1.069476}}, None,
+       {'episode': {'r': 13.0, 'l': 13, 't': 1.068935}}], dtype=object), '_final_info': array([False,  True, False,  True])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None,
+       array([-0.16788471, -1.3522373 ,  0.23059505,  2.492128  ], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 47.0, 'l': 47, 't': 1.078489}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{}
+{}
+{'final_observation': array([None,
+       array([-0.16341585, -1.7336789 ,  0.24801986,  2.7944455 ], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([False,  True, False, False]), 'final_info': array([None, {'episode': {'r': 13.0, 'l': 13, 't': 1.081385}}, None, None],
+      dtype=object), '_final_info': array([False,  True, False, False])}
+{}
+{'final_observation': array([array([ 0.01115151,  0.40379772, -0.21292554, -1.2464958 ], dtype=float32),
+       None, None, None], dtype=object), '_final_observation': array([ True, False, False, False]), 'final_info': array([{'episode': {'r': 26.0, 'l': 26, 't': 1.083769}}, None, None, None],
+      dtype=object), '_final_info': array([ True, False, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None,
+       array([-0.14475843, -1.1606249 ,  0.21450424,  1.9035655 ], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 16.0, 'l': 16, 't': 1.092578}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{}
+{}
+{}
+{}
+{'final_observation': array([None,
+       array([ 0.0819212 ,  0.07242783, -0.21511951, -0.53423727], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([False,  True, False, False]), 'final_info': array([None, {'episode': {'r': 18.0, 'l': 18, 't': 1.096925}}, None, None],
+      dtype=object), '_final_info': array([False,  True, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None,
+       array([-0.14354232, -0.03691597,  0.22003555,  0.35769984], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 12.0, 'l': 12, 't': 1.102125}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None, None,
+       array([-0.1990545 , -0.93728966,  0.21180798,  1.5143024 ], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False, False,  True]), 'final_info': array([None, None, None, {'episode': {'r': 51.0, 'l': 51, 't': 1.150813}}],
+      dtype=object), '_final_info': array([False, False, False,  True])}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None,
+       array([-0.12032539, -0.96946764,  0.2390896 ,  1.884754  ], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 19.0, 'l': 19, 't': 1.155833}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None,
+       array([-1.0586658e-03, -9.6556738e-02,  2.2463645e-01,  1.1606370e+00],
+             dtype=float32)                                                   ,
+       None, None], dtype=object), '_final_observation': array([False,  True, False, False]), 'final_info': array([None, {'episode': {'r': 36.0, 'l': 36, 't': 1.165053}}, None, None],
+      dtype=object), '_final_info': array([False,  True, False, False])}
+{}
+{}
+{}
+{'final_observation': array([array([ 0.6086303 ,  1.9014357 , -0.22155806, -1.6885893 ], dtype=float32),
+       None, None, None], dtype=object), '_final_observation': array([ True, False, False, False]), 'final_info': array([{'episode': {'r': 56.0, 'l': 56, 't': 1.168882}}, None, None, None],
+      dtype=object), '_final_info': array([ True, False, False, False])}
+{'final_observation': array([None, None,
+       array([ 0.1662794 ,  0.95367193, -0.21796249, -1.6509242 ], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 15.0, 'l': 15, 't': 1.169138}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{}
+{}
+{}
+{'final_observation': array([None, None, None,
+       array([-0.1174674 ,  0.1441274 ,  0.22107393,  0.39521673], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False, False,  True]), 'final_info': array([None, None, None, {'episode': {'r': 25.0, 'l': 25, 't': 1.172312}}],
+      dtype=object), '_final_info': array([False, False, False,  True])}
+{}
+{}
+{}
+{'final_observation': array([array([ 0.08515   ,  0.9725298 , -0.21040753, -1.6742228 ], dtype=float32),
+       array([ 0.08703467,  0.9692033 , -0.2266618 , -1.8479879 ], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([ True,  True, False, False]), 'final_info': array([{'episode': {'r': 9.0, 'l': 9, 't': 1.177446}},
+       {'episode': {'r': 13.0, 'l': 13, 't': 1.177001}}, None, None],
+      dtype=object), '_final_info': array([ True,  True, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None,
+       array([ 0.10415712,  0.98823494, -0.2393343 , -1.7174358 ], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([False,  True, False, False]), 'final_info': array([None, {'episode': {'r': 9.0, 'l': 9, 't': 1.184174}}, None, None],
+      dtype=object), '_final_info': array([False,  True, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None,
+       array([ 0.12772484,  0.5868681 , -0.23079893, -1.2850255 ], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 27.0, 'l': 27, 't': 1.191754}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{}
+{'final_observation': array([array([-0.2266067 , -0.9519217 ,  0.23165959,  1.4994661 ], dtype=float32),
+       None, None, None], dtype=object), '_final_observation': array([ True, False, False, False]), 'final_info': array([{'episode': {'r': 21.0, 'l': 21, 't': 1.194858}}, None, None, None],
+      dtype=object), '_final_info': array([ True, False, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None,
+       array([ 0.13607955,  0.7874732 , -0.22994418, -1.4269792 ], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 14.0, 'l': 14, 't': 1.219569}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{}
+{'final_observation': array([None,
+       array([ 0.05056604,  0.01117574, -0.2208262 , -0.9341127 ], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([False,  True, False, False]), 'final_info': array([None, {'episode': {'r': 26.0, 'l': 26, 't': 1.224102}}, None, None],
+      dtype=object), '_final_info': array([False,  True, False, False])}
+{}
+Moviepy - Building video /home/han/Documents/ppo/videos/CartPole-v1_ppo_1_1685076971/rl-video-episode-8.mp4.
+Moviepy - Writing video /home/han/Documents/ppo/videos/CartPole-v1_ppo_1_1685076971/rl-video-episode-8.mp4
+Moviepy - Done !
+Moviepy - video ready /home/han/Documents/ppo/videos/CartPole-v1_ppo_1_1685076971/rl-video-episode-8.mp4
+{'final_observation': array([array([-0.09536617, -0.80244076,  0.21076354,  1.5991579 ], dtype=float32),
+       None, None, None], dtype=object), '_final_observation': array([ True, False, False, False]), 'final_info': array([{'episode': {'r': 16.0, 'l': 16, 't': 1.22867}}, None, None, None],
+      dtype=object), '_final_info': array([ True, False, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None,
+       array([ 0.18520722,  1.5412415 , -0.22688453, -2.5003388 ], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([False,  True, False, False]), 'final_info': array([None, {'episode': {'r': 12.0, 'l': 12, 't': 1.287081}}, None, None],
+      dtype=object), '_final_info': array([False,  True, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None,
+       array([ 0.1473776 ,  1.032689  , -0.22154236, -1.827722  ], dtype=float32),
+       array([-0.39782068, -2.2787437 ,  0.2336825 ,  2.918884  ], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False,  True,  True]), 'final_info': array([None, None, {'episode': {'r': 21.0, 'l': 21, 't': 1.294748}},
+       {'episode': {'r': 58.0, 'l': 58, 't': 1.294579}}], dtype=object), '_final_info': array([False, False,  True,  True])}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None,
+       array([-0.17521529, -1.1456046 ,  0.24516352,  1.9622006 ], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([False,  True, False, False]), 'final_info': array([None, {'episode': {'r': 14.0, 'l': 14, 't': 1.307031}}, None, None],
+      dtype=object), '_final_info': array([False,  True, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None,
+       array([ 0.16604932,  1.1569076 , -0.22740556, -1.9880189 ], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([False,  True, False, False]), 'final_info': array([None, {'episode': {'r': 10.0, 'l': 10, 't': 1.319046}}, None, None],
+      dtype=object), '_final_info': array([False,  True, False, False])}
+{'final_observation': array([None, None,
+       array([-0.13514884, -0.4638251 ,  0.23526403,  1.1596481 ], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 18.0, 'l': 18, 't': 1.319996}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None,
+       array([ 0.15034111,  0.7718634 , -0.22920884, -1.4849718 ], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([False,  True, False, False]), 'final_info': array([None, {'episode': {'r': 14.0, 'l': 14, 't': 1.332248}}, None, None],
+      dtype=object), '_final_info': array([False,  True, False, False])}
+{'final_observation': array([array([ 0.06480985,  0.2557912 , -0.21217345, -1.0154189 ], dtype=float32),
+       None, None, None], dtype=object), '_final_observation': array([ True, False, False, False]), 'final_info': array([{'episode': {'r': 49.0, 'l': 49, 't': 1.333762}}, None, None, None],
+      dtype=object), '_final_info': array([ True, False, False, False])}
+{'final_observation': array([None, None, None,
+       array([-0.13053377, -0.21134028,  0.22615029,  0.85697216], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False, False,  True]), 'final_info': array([None, None, None, {'episode': {'r': 33.0, 'l': 33, 't': 1.333691}}],
+      dtype=object), '_final_info': array([False, False, False,  True])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None,
+       array([-0.17460726, -0.9870277 ,  0.23412888,  1.8142698 ], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([False,  True, False, False]), 'final_info': array([None, {'episode': {'r': 13.0, 'l': 13, 't': 1.384256}}, None, None],
+      dtype=object), '_final_info': array([False,  True, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([array([ 0.07190273,  0.55978847, -0.23112208, -1.1459036 ], dtype=float32),
+       None, None, None], dtype=object), '_final_observation': array([ True, False, False, False]), 'final_info': array([{'episode': {'r': 21.0, 'l': 21, 't': 1.39183}}, None, None, None],
+      dtype=object), '_final_info': array([ True, False, False, False])}
+{'final_observation': array([None, None, None,
+       array([ 0.04232991,  0.9533509 , -0.23878628, -2.0826755 ], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False, False,  True]), 'final_info': array([None, None, None, {'episode': {'r': 21.0, 'l': 21, 't': 1.392494}}],
+      dtype=object), '_final_info': array([False, False, False,  True])}
+{'final_observation': array([None, None,
+       array([ 0.03639366, -0.9621572 ,  0.22530405,  2.0238192 ], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 37.0, 'l': 37, 't': 1.393735}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([array([-0.10119233, -0.55947006,  0.2397231 ,  1.3062503 ], dtype=float32),
+       None, None, None], dtype=object), '_final_observation': array([ True, False, False, False]), 'final_info': array([{'episode': {'r': 15.0, 'l': 15, 't': 1.403791}}, None, None, None],
+      dtype=object), '_final_info': array([ True, False, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None,
+       array([ 0.18285377, -0.15562722, -0.21440145, -0.24639483], dtype=float32),
+       array([-0.13117324, -0.43912643,  0.22525035,  1.1186582 ], dtype=float32),
+       array([ 0.06412562,  0.6637161 , -0.21895818, -1.590079  ], dtype=float32)],
+      dtype=object), '_final_observation': array([False,  True,  True,  True]), 'final_info': array([None, {'episode': {'r': 35.0, 'l': 35, 't': 1.412743}},
+       {'episode': {'r': 24.0, 'l': 24, 't': 1.412484}},
+       {'episode': {'r': 25.0, 'l': 25, 't': 1.412233}}], dtype=object), '_final_info': array([False,  True,  True,  True])}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([array([ 0.15845428,  0.01681822, -0.2123844 , -0.45322865], dtype=float32),
+       None, None, None], dtype=object), '_final_observation': array([ True, False, False, False]), 'final_info': array([{'episode': {'r': 18.0, 'l': 18, 't': 1.418924}}, None, None, None],
+      dtype=object), '_final_info': array([ True, False, False, False])}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None,
+       array([-0.14725643, -1.3708887 ,  0.2500446 ,  2.3902035 ], dtype=float32),
+       array([-0.15444005, -0.6470883 ,  0.23787685,  1.2055676 ], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False,  True,  True]), 'final_info': array([None, None, {'episode': {'r': 13.0, 'l': 13, 't': 1.422962}},
+       {'episode': {'r': 13.0, 'l': 13, 't': 1.42273}}], dtype=object), '_final_info': array([False, False,  True,  True])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([array([-0.08415987, -1.1502031 ,  0.23934628,  2.1004102 ], dtype=float32),
+       array([ 0.17531203,  0.6520788 , -0.21067889, -1.3202575 ], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([ True,  True, False, False]), 'final_info': array([{'episode': {'r': 14.0, 'l': 14, 't': 1.431183}},
+       {'episode': {'r': 21.0, 'l': 21, 't': 1.430732}}, None, None],
+      dtype=object), '_final_info': array([ True,  True, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None,
+       array([ 0.05709244,  0.94849175, -0.24734192, -1.9180648 ], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 19.0, 'l': 19, 't': 1.438919}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None,
+       array([ 0.09793872,  0.98108375, -0.21220951, -1.8575604 ], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([False,  True, False, False]), 'final_info': array([None, {'episode': {'r': 17.0, 'l': 17, 't': 1.444975}}, None, None],
+      dtype=object), '_final_info': array([False,  True, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None, None,
+       array([ 0.09669699,  0.39834946, -0.22545657, -1.0689656 ], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False, False,  True]), 'final_info': array([None, None, None, {'episode': {'r': 32.0, 'l': 32, 't': 1.44996}}],
+      dtype=object), '_final_info': array([False, False, False,  True])}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([array([ 0.2472857 ,  1.5786598 , -0.21984571, -1.981452  ], dtype=float32),
+       None,
+       array([-0.11786894, -0.20170572,  0.2219713 ,  0.73049736], dtype=float32),
+       None], dtype=object), '_final_observation': array([ True, False,  True, False]), 'final_info': array([{'episode': {'r': 30.0, 'l': 30, 't': 1.455904}}, None,
+       {'episode': {'r': 19.0, 'l': 19, 't': 1.455148}}, None],
+      dtype=object), '_final_info': array([ True, False,  True, False])}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None, None,
+       array([ 0.09990221,  0.0656505 , -0.21224484, -0.38748688], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False, False,  True]), 'final_info': array([None, None, None, {'episode': {'r': 12.0, 'l': 12, 't': 1.460966}}],
+      dtype=object), '_final_info': array([False, False, False,  True])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None,
+       array([ 0.12245347,  0.5913131 , -0.21875952, -1.2452195 ], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([False,  True, False, False]), 'final_info': array([None, {'episode': {'r': 27.0, 'l': 27, 't': 1.467494}}, None, None],
+      dtype=object), '_final_info': array([False,  True, False, False])}
+{}
+{}
+{}
+{'final_observation': array([None, None, None,
+       array([-0.18103753, -0.81303483,  0.22294982,  1.4241832 ], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False, False,  True]), 'final_info': array([None, None, None, {'episode': {'r': 12.0, 'l': 12, 't': 1.470009}}],
+      dtype=object), '_final_info': array([False, False, False,  True])}
+{}
+{}
+{'final_observation': array([array([-0.04104739,  0.1841652 ,  0.2144963 ,  0.359184  ], dtype=float32),
+       None, None, None], dtype=object), '_final_observation': array([ True, False, False, False]), 'final_info': array([{'episode': {'r': 21.0, 'l': 21, 't': 1.473703}}, None, None, None],
+      dtype=object), '_final_info': array([ True, False, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None, None,
+       array([-0.12821236, -0.7790384 ,  0.21509291,  1.5837791 ], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False, False,  True]), 'final_info': array([None, None, None, {'episode': {'r': 16.0, 'l': 16, 't': 1.483739}}],
+      dtype=object), '_final_info': array([False, False, False,  True])}
+{}
+{}
+{'final_observation': array([None,
+       array([ 0.0772345 ,  0.5747078 , -0.22022265, -1.307035  ], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([False,  True, False, False]), 'final_info': array([None, {'episode': {'r': 23.0, 'l': 23, 't': 1.522438}}, None, None],
+      dtype=object), '_final_info': array([False,  True, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None, None,
+       array([ 0.16990833,  1.6119487 , -0.25436136, -2.7063062 ], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False, False,  True]), 'final_info': array([None, None, None, {'episode': {'r': 16.0, 'l': 16, 't': 1.533159}}],
+      dtype=object), '_final_info': array([False, False, False,  True])}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None,
+       array([-0.1654131 , -1.0432154 ,  0.22093473,  1.9713688 ], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([False,  True, False, False]), 'final_info': array([None, {'episode': {'r': 19.0, 'l': 19, 't': 1.538711}}, None, None],
+      dtype=object), '_final_info': array([False,  True, False, False])}
+{}
+{}
+{}
+{}
+{'final_observation': array([array([-0.00677927,  0.29754677,  0.21414517,  0.35750425], dtype=float32),
+       None, None, None], dtype=object), '_final_observation': array([ True, False, False, False]), 'final_info': array([{'episode': {'r': 40.0, 'l': 40, 't': 1.544474}}, None, None, None],
+      dtype=object), '_final_info': array([ True, False, False, False])}
+{}
+{}
+{}
+{'final_observation': array([None, None, None,
+       array([-0.12798876, -0.6233095 ,  0.21820344,  1.2398367 ], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False, False,  True]), 'final_info': array([None, None, None, {'episode': {'r': 15.0, 'l': 15, 't': 1.546888}}],
+      dtype=object), '_final_info': array([False, False, False,  True])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None,
+       array([ 0.09471519, -0.10325658, -0.22347648, -0.64487237], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 73.0, 'l': 73, 't': 1.553428}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{}
+{}
+{}
+{'final_observation': array([array([-0.11974034, -0.4274124 ,  0.21654154,  0.947284  ], dtype=float32),
+       None, None, None], dtype=object), '_final_observation': array([ True, False, False, False]), 'final_info': array([{'episode': {'r': 16.0, 'l': 16, 't': 1.557674}}, None, None, None],
+      dtype=object), '_final_info': array([ True, False, False, False])}
+{'final_observation': array([None,
+       array([-0.07530344,  0.31551418,  0.21280144,  0.07114406], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([False,  True, False, False]), 'final_info': array([None, {'episode': {'r': 22.0, 'l': 22, 't': 1.558916}}, None, None],
+      dtype=object), '_final_info': array([False,  True, False, False])}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None, None,
+       array([ 0.1448143 ,  0.25271714, -0.21180105, -0.8133814 ], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False, False,  True]), 'final_info': array([None, None, None, {'episode': {'r': 19.0, 'l': 19, 't': 1.563215}}],
+      dtype=object), '_final_info': array([False, False, False,  True])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([array([-0.15543655, -0.6041598 ,  0.21656276,  1.2662021 ], dtype=float32),
+       None, None, None], dtype=object), '_final_observation': array([ True, False, False, False]), 'final_info': array([{'episode': {'r': 15.0, 'l': 15, 't': 1.570511}}, None, None, None],
+      dtype=object), '_final_info': array([ True, False, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None,
+       array([-0.1701827 , -0.41040376,  0.21407896,  1.0295948 ], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 30.0, 'l': 30, 't': 1.579048}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{}
+{'final_observation': array([None,
+       array([-0.11375466, -0.2676032 ,  0.21388759,  0.93098944], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([False,  True, False, False]), 'final_info': array([None, {'episode': {'r': 27.0, 'l': 27, 't': 1.581104}}, None, None],
+      dtype=object), '_final_info': array([False,  True, False, False])}
+{}
+{'final_observation': array([None, None, None,
+       array([ 0.03725506,  0.23997985, -0.22164498, -0.9258938 ], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False, False,  True]), 'final_info': array([None, None, None, {'episode': {'r': 23.0, 'l': 23, 't': 1.582199}}],
+      dtype=object), '_final_info': array([False, False, False,  True])}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([array([-0.05263377, -0.5834921 ,  0.21231928,  1.4577385 ], dtype=float32),
+       None, None, None], dtype=object), '_final_observation': array([ True, False, False, False]), 'final_info': array([{'episode': {'r': 21.0, 'l': 21, 't': 1.587656}}, None, None, None],
+      dtype=object), '_final_info': array([ True, False, False, False])}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None,
+       array([ 0.20707287,  1.2282779 , -0.22268605, -1.9179597 ], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([False,  True, False, False]), 'final_info': array([None, {'episode': {'r': 14.0, 'l': 14, 't': 1.59269}}, None, None],
+      dtype=object), '_final_info': array([False,  True, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None,
+       array([-0.0318808 , -0.45817658,  0.22438268,  1.3216962 ], dtype=float32),
+       array([ 0.00338965, -0.8185224 ,  0.21996254,  1.8467523 ], dtype=float32),
+       None], dtype=object), '_final_observation': array([False,  True,  True, False]), 'final_info': array([None, {'episode': {'r': 26.0, 'l': 26, 't': 1.612606}},
+       {'episode': {'r': 42.0, 'l': 42, 't': 1.61234}}, None],
+      dtype=object), '_final_info': array([False,  True,  True, False])}
+{}
+{}
+{}
+{}
+{'final_observation': array([array([ 0.09015541,  0.61138827, -0.21368304, -1.5456469 ], dtype=float32),
+       None, None, None], dtype=object), '_final_observation': array([ True, False, False, False]), 'final_info': array([{'episode': {'r': 37.0, 'l': 37, 't': 1.617064}}, None, None, None],
+      dtype=object), '_final_info': array([ True, False, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None,
+       array([ 0.17998089,  1.3678027 , -0.21971136, -2.136179  ], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([False,  True, False, False]), 'final_info': array([None, {'episode': {'r': 15.0, 'l': 15, 't': 1.623863}}, None, None],
+      dtype=object), '_final_info': array([False,  True, False, False])}
+{}
+{}
+{'final_observation': array([None, None,
+       array([-0.19443488, -0.8248873 ,  0.2130269 ,  1.4775417 ], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 18.0, 'l': 18, 't': 1.627216}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None,
+       array([-0.11972842, -0.9377668 ,  0.22600895,  1.6561943 ], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 11.0, 'l': 11, 't': 1.670587}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None,
+       array([-0.09265092, -0.2483248 ,  0.2099426 ,  0.9386621 ], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([False,  True, False, False]), 'final_info': array([None, {'episode': {'r': 25.0, 'l': 25, 't': 1.680074}}, None, None],
+      dtype=object), '_final_info': array([False,  True, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([array([-0.27791187, -1.5906969 ,  0.23039787,  2.1189318 ], dtype=float32),
+       None, None, None], dtype=object), '_final_observation': array([ True, False, False, False]), 'final_info': array([{'episode': {'r': 50.0, 'l': 50, 't': 1.691412}}, None, None, None],
+      dtype=object), '_final_info': array([ True, False, False, False])}
+{'final_observation': array([None, None, None,
+       array([-0.8756698 , -0.25475195, -0.23953664, -1.9053575 ], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False, False,  True]), 'final_info': array([None, None, None, {'episode': {'r': 94.0, 'l': 94, 't': 1.691868}}],
+      dtype=object), '_final_info': array([False, False, False,  True])}
+{}
+{'final_observation': array([None, None,
+       array([ 0.10881682, -0.17722252, -0.21767808, -0.48710975], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 29.0, 'l': 29, 't': 1.694048}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None,
+       array([ 0.0167111 , -0.27125087,  0.2221456 ,  1.2454126 ], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([False,  True, False, False]), 'final_info': array([None, {'episode': {'r': 39.0, 'l': 39, 't': 1.710289}}, None, None],
+      dtype=object), '_final_info': array([False,  True, False, False])}
+{}
+{}
+{'final_observation': array([None, None,
+       array([-0.13102745, -0.39646396,  0.22854698,  1.134002  ], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 24.0, 'l': 24, 't': 1.712395}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{}
+{}
+{}
+{'final_observation': array([None, None, None,
+       array([-0.04776891, -0.03339923,  0.21698378,  0.81041044], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False, False,  True]), 'final_info': array([None, None, None, {'episode': {'r': 30.0, 'l': 30, 't': 1.715223}}],
+      dtype=object), '_final_info': array([False, False, False,  True])}
+{}
+{}
+{}
+{}
+{'final_observation': array([array([ 0.21710482,  0.812479  , -0.21052699, -1.258016  ], dtype=float32),
+       None, None, None], dtype=object), '_final_observation': array([ True, False, False, False]), 'final_info': array([{'episode': {'r': 36.0, 'l': 36, 't': 1.720089}}, None, None, None],
+      dtype=object), '_final_info': array([ True, False, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([array([-0.08587798, -0.9581713 ,  0.2352846 ,  1.7432108 ], dtype=float32),
+       None, None, None], dtype=object), '_final_observation': array([ True, False, False, False]), 'final_info': array([{'episode': {'r': 11.0, 'l': 11, 't': 1.729296}}, None, None, None],
+      dtype=object), '_final_info': array([ True, False, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None,
+       array([-0.07289135,  0.19771773,  0.22397095,  0.52936876], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 29.0, 'l': 29, 't': 1.73511}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([array([ 0.1939114 ,  1.4100022 , -0.24616106, -2.2952352 ], dtype=float32),
+       None, None, None], dtype=object), '_final_observation': array([ True, False, False, False]), 'final_info': array([{'episode': {'r': 15.0, 'l': 15, 't': 1.740536}}, None, None, None],
+      dtype=object), '_final_info': array([ True, False, False, False])}
+{}
+{}
+{}
+{}
+{'final_observation': array([None,
+       array([-0.19234611, -0.5451609 ,  0.21364586,  1.1098154 ], dtype=float32),
+       None,
+       array([ 0.11245823, -0.3598184 , -0.21254562, -0.12387123], dtype=float32)],
+      dtype=object), '_final_observation': array([False,  True, False,  True]), 'final_info': array([None, {'episode': {'r': 43.0, 'l': 43, 't': 1.744899}}, None,
+       {'episode': {'r': 36.0, 'l': 36, 't': 1.744361}}], dtype=object), '_final_info': array([False,  True, False,  True])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None,
+       array([-0.16429788, -0.44596094,  0.2297853 ,  0.9735587 ], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 26.0, 'l': 26, 't': 1.755452}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{'final_observation': array([None,
+       array([ 0.13053563,  0.7823645 , -0.22715825, -1.4803746 ], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([False,  True, False, False]), 'final_info': array([None, {'episode': {'r': 16.0, 'l': 16, 't': 1.756796}}, None, None],
+      dtype=object), '_final_info': array([False,  True, False, False])}
+{'final_observation': array([array([ 0.04928174, -0.37653455, -0.21267956, -0.20451228], dtype=float32),
+       None, None, None], dtype=object), '_final_observation': array([ True, False, False, False]), 'final_info': array([{'episode': {'r': 22.0, 'l': 22, 't': 1.758321}}, None, None, None],
+      dtype=object), '_final_info': array([ True, False, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None, None,
+       array([ 0.05152122,  0.55535436, -0.21799165, -1.1249423 ], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False, False,  True]), 'final_info': array([None, None, None, {'episode': {'r': 31.0, 'l': 31, 't': 1.812146}}],
+      dtype=object), '_final_info': array([False, False, False,  True])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None, None,
+       array([ 0.12684965, -0.11485874, -0.21336876, -0.4190587 ], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False, False,  True]), 'final_info': array([None, None, None, {'episode': {'r': 27.0, 'l': 27, 't': 1.831964}}],
+      dtype=object), '_final_info': array([False, False, False,  True])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([array([-0.16443294, -0.47878852, -0.21566036, -0.4795002 ], dtype=float32),
+       None,
+       array([0.26763776, 0.45016292, 0.22611918, 1.1985897 ], dtype=float32),
+       None], dtype=object), '_final_observation': array([ True, False,  True, False]), 'final_info': array([{'episode': {'r': 49.0, 'l': 49, 't': 1.838824}}, None,
+       {'episode': {'r': 51.0, 'l': 51, 't': 1.840645}}, None],
+      dtype=object), '_final_info': array([ True, False,  True, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None, None,
+       array([ 0.10278024,  0.7969899 , -0.2131541 , -1.6276069 ], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False, False,  True]), 'final_info': array([None, None, None, {'episode': {'r': 16.0, 'l': 16, 't': 1.855818}}],
+      dtype=object), '_final_info': array([False, False, False,  True])}
+{}
+{}
+{}
+{}
+{}
+Moviepy - Building video /home/han/Documents/ppo/videos/CartPole-v1_ppo_1_1685076971/rl-video-episode-27.mp4.
+Moviepy - Writing video /home/han/Documents/ppo/videos/CartPole-v1_ppo_1_1685076971/rl-video-episode-27.mp4
+Moviepy - Done !
+Moviepy - video ready /home/han/Documents/ppo/videos/CartPole-v1_ppo_1_1685076971/rl-video-episode-27.mp4
+{'final_observation': array([array([-0.0753072 ,  0.02654613,  0.2164919 ,  0.5304787 ], dtype=float32),
+       array([ 0.25949934, -0.41371557,  0.22625473,  1.7929132 ], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([ True,  True, False, False]), 'final_info': array([{'episode': {'r': 14.0, 'l': 14, 't': 1.867573}},
+       {'episode': {'r': 64.0, 'l': 64, 't': 1.915758}}, None, None],
+      dtype=object), '_final_info': array([ True,  True, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None,
+       array([ 0.1098996 ,  0.5554355 , -0.21347003, -1.1250168 ], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 21.0, 'l': 21, 't': 1.921547}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([array([-0.145318  , -0.7687415 ,  0.23148549,  1.5101789 ], dtype=float32),
+       None, None, None], dtype=object), '_final_observation': array([ True, False, False, False]), 'final_info': array([{'episode': {'r': 16.0, 'l': 16, 't': 1.92998}}, None, None, None],
+      dtype=object), '_final_info': array([ True, False, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None,
+       array([ 0.14887692,  0.05775911, -0.22170804, -0.6182714 ], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([False,  True, False, False]), 'final_info': array([None, {'episode': {'r': 30.0, 'l': 30, 't': 1.939289}}, None, None],
+      dtype=object), '_final_info': array([False,  True, False, False])}
+{'final_observation': array([None, None,
+       array([ 0.03103978, -0.30367026, -0.21581289, -0.33079574], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 24.0, 'l': 24, 't': 1.940089}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([array([ 0.16276191,  0.9879979 , -0.2351693 , -1.8021547 ], dtype=float32),
+       None, None, None], dtype=object), '_final_observation': array([ True, False, False, False]), 'final_info': array([{'episode': {'r': 21.0, 'l': 21, 't': 1.946124}}, None, None, None],
+      dtype=object), '_final_info': array([ True, False, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None, None,
+       array([-0.40100697, -0.2789113 , -0.22718067, -1.3446038 ], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False, False,  True]), 'final_info': array([None, None, None, {'episode': {'r': 54.0, 'l': 54, 't': 1.952965}}],
+      dtype=object), '_final_info': array([False, False, False,  True])}
+{}
+{}
+{'final_observation': array([array([-0.15644805, -0.7787087 ,  0.23219532,  1.467987  ], dtype=float32),
+       None, None, None], dtype=object), '_final_observation': array([ True, False, False, False]), 'final_info': array([{'episode': {'r': 14.0, 'l': 14, 't': 1.956516}}, None, None, None],
+      dtype=object), '_final_info': array([ True, False, False, False])}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None,
+       array([ 0.07969124,  0.17462999, -0.21279977, -0.8731652 ], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([False,  True, False, False]), 'final_info': array([None, {'episode': {'r': 27.0, 'l': 27, 't': 1.961664}}, None, None],
+      dtype=object), '_final_info': array([False,  True, False, False])}
+{}
+{'final_observation': array([None, None,
+       array([0.0376568 , 0.4064893 , 0.21129149, 0.16484323], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 28.0, 'l': 28, 't': 1.963113}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([array([ 0.14357321,  0.75410247, -0.2241306 , -1.4520006 ], dtype=float32),
+       None, None, None], dtype=object), '_final_observation': array([ True, False, False, False]), 'final_info': array([{'episode': {'r': 22.0, 'l': 22, 't': 2.009109}}, None, None, None],
+      dtype=object), '_final_info': array([ True, False, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([array([ 0.08455624,  0.38204288, -0.22402112, -1.1655489 ], dtype=float32),
+       None, None, None], dtype=object), '_final_observation': array([ True, False, False, False]), 'final_info': array([{'episode': {'r': 16.0, 'l': 16, 't': 2.020644}}, None, None, None],
+      dtype=object), '_final_info': array([ True, False, False, False])}
+{}
+{}
+{'final_observation': array([None, None,
+       array([-0.05864349, -1.0294152 ,  0.213341  ,  1.8976912 ], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 33.0, 'l': 33, 't': 2.022355}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None, None,
+       array([-0.03834868,  0.07254622, -0.21082823, -1.1681635 ], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False, False,  True]), 'final_info': array([None, None, None, {'episode': {'r': 62.0, 'l': 62, 't': 2.035853}}],
+      dtype=object), '_final_info': array([False, False, False,  True])}
+{}
+{}
+{}
+{'final_observation': array([None,
+       array([ 0.14722271, -0.13790168, -0.21744268, -0.28206995], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([False,  True, False, False]), 'final_info': array([None, {'episode': {'r': 57.0, 'l': 57, 't': 2.039609}}, None, None],
+      dtype=object), '_final_info': array([False,  True, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None, None,
+       array([ 0.20183153,  1.2133398 , -0.23518224, -2.0702276 ], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False, False,  True]), 'final_info': array([None, None, None, {'episode': {'r': 26.0, 'l': 26, 't': 2.055487}}],
+      dtype=object), '_final_info': array([False, False, False,  True])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None,
+       array([-0.3484741 , -0.8171511 ,  0.22964923,  1.3618599 ], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 54.0, 'l': 54, 't': 2.064092}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{}
+{}
+{}
+{}
+{'final_observation': array([None,
+       array([0.01114958, 0.11636788, 0.21660542, 0.77513665], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([False,  True, False, False]), 'final_info': array([None, {'episode': {'r': 37.0, 'l': 37, 't': 2.068189}}, None, None],
+      dtype=object), '_final_info': array([False,  True, False, False])}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None, None,
+       array([-0.0995338 , -0.03432344,  0.22214954,  0.4575596 ], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False, False,  True]), 'final_info': array([None, None, None, {'episode': {'r': 20.0, 'l': 20, 't': 2.071478}}],
+      dtype=object), '_final_info': array([False, False, False,  True])}
+{}
+{}
+{}
+{'final_observation': array([None, None,
+       array([-0.11215979, -0.40564924,  0.21571836,  0.8555229 ], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 14.0, 'l': 14, 't': 2.07589}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([array([-0.43224353, -0.31570277, -0.23430856, -1.1259416 ], dtype=float32),
+       None, None, None], dtype=object), '_final_observation': array([ True, False, False, False]), 'final_info': array([{'episode': {'r': 84.0, 'l': 84, 't': 2.085905}}, None, None, None],
+      dtype=object), '_final_info': array([ True, False, False, False])}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None, None,
+       array([-0.13276507, -0.03580337,  0.2206615 ,  0.5447749 ], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False, False,  True]), 'final_info': array([None, None, None, {'episode': {'r': 22.0, 'l': 22, 't': 2.088621}}],
+      dtype=object), '_final_info': array([False, False, False,  True])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None, None,
+       array([-0.09438191, -0.94927305,  0.21561599,  1.9346557 ], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False, False,  True]), 'final_info': array([None, None, None, {'episode': {'r': 15.0, 'l': 15, 't': 2.100224}}],
+      dtype=object), '_final_info': array([False, False, False,  True])}
+{}
+{'final_observation': array([None,
+       array([ 0.0587756 ,  0.01401866, -0.21307077, -0.8272932 ], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([False,  True, False, False]), 'final_info': array([None, {'episode': {'r': 44.0, 'l': 44, 't': 2.102543}}, None, None],
+      dtype=object), '_final_info': array([False,  True, False, False])}
+{}
+{}
+{'final_observation': array([array([-0.05775567,  0.55980104,  0.21182469,  0.06165372], dtype=float32),
+       None, None, None], dtype=object), '_final_observation': array([ True, False, False, False]), 'final_info': array([{'episode': {'r': 25.0, 'l': 25, 't': 2.105424}}, None, None, None],
+      dtype=object), '_final_info': array([ True, False, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None, None,
+       array([ 0.1153403 ,  0.5836184 , -0.22506632, -1.292246  ], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False, False,  True]), 'final_info': array([None, None, None, {'episode': {'r': 19.0, 'l': 19, 't': 2.149276}}],
+      dtype=object), '_final_info': array([False, False, False,  True])}
+{'final_observation': array([None, None,
+       array([-0.12658964,  0.6597473 , -0.21471272, -2.0320234 ], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 53.0, 'l': 53, 't': 2.15057}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([array([ 0.01313172, -0.29651445, -0.21011232, -0.43327695], dtype=float32),
+       None, None, None], dtype=object), '_final_observation': array([ True, False, False, False]), 'final_info': array([{'episode': {'r': 24.0, 'l': 24, 't': 2.15797}}, None, None, None],
+      dtype=object), '_final_info': array([ True, False, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None, None,
+       array([ 0.20564142,  0.9992758 , -0.21172458, -1.5198951 ], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False, False,  True]), 'final_info': array([None, None, None, {'episode': {'r': 19.0, 'l': 19, 't': 2.164384}}],
+      dtype=object), '_final_info': array([False, False, False,  True])}
+{'final_observation': array([None, None,
+       array([-0.09735318,  0.21089979,  0.21096654,  0.20446044], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 19.0, 'l': 19, 't': 2.165661}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([array([ 0.08710551,  0.60752326, -0.21521622, -1.4246101 ], dtype=float32),
+       None, None, None], dtype=object), '_final_observation': array([ True, False, False, False]), 'final_info': array([{'episode': {'r': 23.0, 'l': 23, 't': 2.176675}}, None, None, None],
+      dtype=object), '_final_info': array([ True, False, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None,
+       array([-0.01354091, -0.04952366,  0.22795887,  0.90129316], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 30.0, 'l': 30, 't': 2.187855}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([array([-0.09118403, -0.20703375,  0.22564001,  0.5914039 ], dtype=float32),
+       None, None, None], dtype=object), '_final_observation': array([ True, False, False, False]), 'final_info': array([{'episode': {'r': 25.0, 'l': 25, 't': 2.196484}}, None, None, None],
+      dtype=object), '_final_info': array([ True, False, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None, None,
+       array([ 0.1012833 ,  0.20427364, -0.2217426 , -0.8126977 ], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False, False,  True]), 'final_info': array([None, None, None, {'episode': {'r': 49.0, 'l': 49, 't': 2.20353}}],
+      dtype=object), '_final_info': array([False, False, False,  True])}
+{}
+{}
+{}
+{'final_observation': array([None, None,
+       array([ 0.12533046,  0.38010466, -0.2144809 , -0.85089874], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 22.0, 'l': 22, 't': 2.207054}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None,
+       array([-0.26646924, -0.5843209 ,  0.217195  ,  1.3932374 ], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([False,  True, False, False]), 'final_info': array([None, {'episode': {'r': 95.0, 'l': 95, 't': 2.212934}}, None, None],
+      dtype=object), '_final_info': array([False,  True, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None,
+       array([-0.03243369, -0.18345   ,  0.21586482,  0.73963076], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([False,  True, False, False]), 'final_info': array([None, {'episode': {'r': 13.0, 'l': 13, 't': 2.222144}}, None, None],
+      dtype=object), '_final_info': array([False,  True, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None,
+       array([-0.0350794 , -0.22327994,  0.23297411,  1.0679771 ], dtype=float32),
+       array([-0.00838898,  0.235359  , -0.23788516, -1.3831006 ], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False,  True,  True]), 'final_info': array([None, None, {'episode': {'r': 39.0, 'l': 39, 't': 2.236942}},
+       {'episode': {'r': 43.0, 'l': 43, 't': 2.236713}}], dtype=object), '_final_info': array([False, False,  True,  True])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([array([-0.6145324 , -0.5464053 , -0.21234226, -0.8849445 ], dtype=float32),
+       None, None, None], dtype=object), '_final_observation': array([ True, False, False, False]), 'final_info': array([{'episode': {'r': 67.0, 'l': 67, 't': 2.282429}}, None, None, None],
+      dtype=object), '_final_info': array([ True, False, False, False])}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None,
+       array([ 0.08863354, -0.20303172, -0.21516517, -0.28595713], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 19.0, 'l': 19, 't': 2.285369}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None,
+       array([-0.12140209, -0.63429314,  0.22752805,  1.612389  ], dtype=float32),
+       None,
+       array([-0.00798303,  0.20034924,  0.21795885,  0.53452903], dtype=float32)],
+      dtype=object), '_final_observation': array([False,  True, False,  True]), 'final_info': array([None, {'episode': {'r': 51.0, 'l': 51, 't': 2.295314}}, None,
+       {'episode': {'r': 31.0, 'l': 31, 't': 2.294776}}], dtype=object), '_final_info': array([False,  True, False,  True])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None,
+       array([-0.08032683, -0.4265901 ,  0.21365607,  1.228628  ], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([False,  True, False, False]), 'final_info': array([None, {'episode': {'r': 22.0, 'l': 22, 't': 2.31211}}, None, None],
+      dtype=object), '_final_info': array([False,  True, False, False])}
+{}
+{'final_observation': array([None, None,
+       array([-0.05772766, -0.75460464, -0.21309902, -0.21475132], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 36.0, 'l': 36, 't': 2.313557}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{}
+{}
+{}
+{}
+{'final_observation': array([array([-0.08341367, -0.41451845,  0.21029194,  1.2753637 ], dtype=float32),
+       None, None, None], dtype=object), '_final_observation': array([ True, False, False, False]), 'final_info': array([{'episode': {'r': 46.0, 'l': 46, 't': 2.318214}}, None, None, None],
+      dtype=object), '_final_info': array([ True, False, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None,
+       array([ 0.11312972,  0.0118134 , -0.22185832, -0.5107159 ], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([False,  True, False, False]), 'final_info': array([None, {'episode': {'r': 26.0, 'l': 26, 't': 2.333023}}, None, None],
+      dtype=object), '_final_info': array([False,  True, False, False])}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None, None,
+       array([ 0.12210462,  0.74055994,  0.20984931, -0.02946031], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False, False,  True]), 'final_info': array([None, None, None, {'episode': {'r': 54.0, 'l': 54, 't': 2.338754}}],
+      dtype=object), '_final_info': array([False, False, False,  True])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None,
+       array([-0.11728361, -0.38571897,  0.23217517,  1.2866677 ], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 46.0, 'l': 46, 't': 2.353366}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None,
+       array([-0.03457056,  0.17185545,  0.21702614,  0.6556997 ], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([False,  True, False, False]), 'final_info': array([None, {'episode': {'r': 29.0, 'l': 29, 't': 2.361042}}, None, None],
+      dtype=object), '_final_info': array([False,  True, False, False])}
+{'final_observation': array([array([0.17581393, 0.49851915, 0.20972146, 0.598716  ], dtype=float32),
+       None, None,
+       array([-0.11332199, -0.38868633,  0.21992834,  0.92443806], dtype=float32)],
+      dtype=object), '_final_observation': array([ True, False, False,  True]), 'final_info': array([{'episode': {'r': 49.0, 'l': 49, 't': 2.362636}}, None, None,
+       {'episode': {'r': 24.0, 'l': 24, 't': 2.361612}}], dtype=object), '_final_info': array([ True, False, False,  True])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None,
+       array([ 0.02661219,  0.0346641 , -0.22041225, -0.86616516], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 32.0, 'l': 32, 't': 2.380179}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None,
+       array([ 0.00500135,  0.17435025, -0.22117877, -0.8201861 ], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([False,  True, False, False]), 'final_info': array([None, {'episode': {'r': 31.0, 'l': 31, 't': 2.421386}}, None, None],
+      dtype=object), '_final_info': array([False,  True, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([array([-0.24953678, -0.16972238, -0.21288922, -1.259378  ], dtype=float32),
+       None, None, None], dtype=object), '_final_observation': array([ True, False, False, False]), 'final_info': array([{'episode': {'r': 41.0, 'l': 41, 't': 2.430915}}, None, None, None],
+      dtype=object), '_final_info': array([ True, False, False, False])}
+{}
+{}
+{}
+{'final_observation': array([None, None, None,
+       array([0.10410505, 0.15801887, 0.22583583, 0.82773584], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False, False,  True]), 'final_info': array([None, None, None, {'episode': {'r': 45.0, 'l': 45, 't': 2.433229}}],
+      dtype=object), '_final_info': array([False, False, False,  True])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None,
+       array([-0.03686325, -0.05305404,  0.22334309,  0.7282392 ], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([False,  True, False, False]), 'final_info': array([None, {'episode': {'r': 26.0, 'l': 26, 't': 2.442151}}, None, None],
+      dtype=object), '_final_info': array([False,  True, False, False])}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None,
+       array([-0.06268957, -0.18367861, -0.2273079 , -0.69490355], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 37.0, 'l': 37, 't': 2.445711}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None, None,
+       array([ 0.04943178,  0.3792423 , -0.21454845, -1.1896352 ], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False, False,  True]), 'final_info': array([None, None, None, {'episode': {'r': 22.0, 'l': 22, 't': 2.449962}}],
+      dtype=object), '_final_info': array([False, False, False,  True])}
+{}
+{}
+{}
+{'final_observation': array([array([-0.19786738, -0.7554588 ,  0.22573575,  1.4569181 ], dtype=float32),
+       None, None, None], dtype=object), '_final_observation': array([ True, False, False, False]), 'final_info': array([{'episode': {'r': 30.0, 'l': 30, 't': 2.45407}}, None, None, None],
+      dtype=object), '_final_info': array([ True, False, False, False])}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None,
+       array([-0.12107794, -0.38704747,  0.21717295,  0.953417  ], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 16.0, 'l': 16, 't': 2.457706}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{}
+{}
+{'final_observation': array([None, None, None,
+       array([ 0.10726102,  0.5887282 , -0.2094886 , -1.1336455 ], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False, False,  True]), 'final_info': array([None, None, None, {'episode': {'r': 13.0, 'l': 13, 't': 2.45987}}],
+      dtype=object), '_final_info': array([False, False, False,  True])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None,
+       array([-0.09450686,  0.00431567,  0.21538429,  0.6719649 ], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 30.0, 'l': 30, 't': 2.479746}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{}
+{'final_observation': array([None,
+       array([-0.50768656, -1.773015  ,  0.23154984,  2.103954  ], dtype=float32),
+       None,
+       array([-0.17798229, -0.26946005,  0.22915225,  0.94214386], dtype=float32)],
+      dtype=object), '_final_observation': array([False,  True, False,  True]), 'final_info': array([None, {'episode': {'r': 53.0, 'l': 53, 't': 2.481821}}, None,
+       {'episode': {'r': 29.0, 'l': 29, 't': 2.481284}}], dtype=object), '_final_info': array([False,  True, False,  True])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([array([ 0.09536251, -0.03689658,  0.22765027,  1.2913854 ], dtype=float32),
+       None, None, None], dtype=object), '_final_observation': array([ True, False, False, False]), 'final_info': array([{'episode': {'r': 60.0, 'l': 60, 't': 2.498359}}, None, None, None],
+      dtype=object), '_final_info': array([ True, False, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None, None,
+       array([-0.19802977, -0.593094  ,  0.21230079,  1.2368262 ], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False, False,  True]), 'final_info': array([None, None, None, {'episode': {'r': 29.0, 'l': 29, 't': 2.502285}}],
+      dtype=object), '_final_info': array([False, False, False,  True])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([array([ 0.17097759,  0.18368521, -0.21848801, -0.59103745], dtype=float32),
+       None, None, None], dtype=object), '_final_observation': array([ True, False, False, False]), 'final_info': array([{'episode': {'r': 25.0, 'l': 25, 't': 2.551671}}, None, None, None],
+      dtype=object), '_final_info': array([ True, False, False, False])}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None,
+       array([ 0.08500425, -0.07992087,  0.21678923,  1.1952394 ], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 54.0, 'l': 54, 't': 2.554643}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None, None,
+       array([-0.09983733, -0.27466482,  0.22105564,  0.9769273 ], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False, False,  True]), 'final_info': array([None, None, None, {'episode': {'r': 37.0, 'l': 37, 't': 2.565302}}],
+      dtype=object), '_final_info': array([False, False, False,  True])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None,
+       array([-0.19659421, -0.30803716, -0.21905632, -0.88034374], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([False,  True, False, False]), 'final_info': array([None, {'episode': {'r': 74.0, 'l': 74, 't': 2.571657}}, None, None],
+      dtype=object), '_final_info': array([False,  True, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None, None,
+       array([-0.09815752, -0.8394573 ,  0.22622511,  1.8422137 ], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False, False,  True]), 'final_info': array([None, None, None, {'episode': {'r': 26.0, 'l': 26, 't': 2.584831}}],
+      dtype=object), '_final_info': array([False, False, False,  True])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None,
+       array([0.17015167, 0.08944881, 0.22081867, 1.2416558 ], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 59.0, 'l': 59, 't': 2.599206}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None,
+       array([0.27142772, 0.752143  , 0.21210223, 0.20892754], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([False,  True, False, False]), 'final_info': array([None, {'episode': {'r': 68.0, 'l': 68, 't': 2.621974}}, None, None],
+      dtype=object), '_final_info': array([False,  True, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None,
+       array([ 0.09973749,  0.2143175 , -0.21848279, -0.93864983], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([False,  True, False, False]), 'final_info': array([None, {'episode': {'r': 25.0, 'l': 25, 't': 2.640431}}, None, None],
+      dtype=object), '_final_info': array([False,  True, False, False])}
+{'final_observation': array([None, None, None,
+       array([-0.17433827, -0.37355304, -0.21076605, -0.8179482 ], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False, False,  True]), 'final_info': array([None, None, None, {'episode': {'r': 76.0, 'l': 76, 't': 2.640883}}],
+      dtype=object), '_final_info': array([False, False, False,  True])}
+{}
+{'final_observation': array([array([-0.15178268, -0.8689642 , -0.21131529, -0.04464408], dtype=float32),
+       None, None, None], dtype=object), '_final_observation': array([ True, False, False, False]), 'final_info': array([{'episode': {'r': 123.0, 'l': 123, 't': 2.644569}}, None, None,
+       None], dtype=object), '_final_info': array([ True, False, False, False])}
+{'final_observation': array([None, None,
+       array([-0.11722039, -0.37165317, -0.21292344, -0.54326576], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 60.0, 'l': 60, 't': 2.644761}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None,
+       array([-0.08503847, -0.07482228,  0.21805146,  0.7251875 ], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([False,  True, False, False]), 'final_info': array([None, {'episode': {'r': 22.0, 'l': 22, 't': 2.69347}}, None, None],
+      dtype=object), '_final_info': array([False,  True, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None, None,
+       array([ 0.02727153,  0.02135294, -0.2181261 , -0.7944755 ], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False, False,  True]), 'final_info': array([None, None, None, {'episode': {'r': 30.0, 'l': 30, 't': 2.699401}}],
+      dtype=object), '_final_info': array([False, False, False,  True])}
+{}
+{}
+{'final_observation': array([array([-0.00503106, -0.56600815, -0.21347116, -0.22492859], dtype=float32),
+       None, None, None], dtype=object), '_final_observation': array([ True, False, False, False]), 'final_info': array([{'episode': {'r': 31.0, 'l': 31, 't': 2.70287}}, None, None, None],
+      dtype=object), '_final_info': array([ True, False, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None,
+       array([-0.15513499, -0.540783  , -0.21056923, -0.33635765], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 49.0, 'l': 49, 't': 2.716358}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None,
+       array([0.1388117 , 0.546963  , 0.21074235, 0.2903339 ], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([False,  True, False, False]), 'final_info': array([None, {'episode': {'r': 63.0, 'l': 63, 't': 2.739801}}, None, None],
+      dtype=object), '_final_info': array([False,  True, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([array([-0.26573497, -0.7110211 , -0.21556439, -0.11100319], dtype=float32),
+       None, None, None], dtype=object), '_final_observation': array([ True, False, False, False]), 'final_info': array([{'episode': {'r': 62.0, 'l': 62, 't': 2.749156}}, None, None, None],
+      dtype=object), '_final_info': array([ True, False, False, False])}
+{'final_observation': array([None, None, None,
+       array([ 0.07102752,  0.3961241 , -0.21747494, -1.198826  ], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False, False,  True]), 'final_info': array([None, None, None, {'episode': {'r': 66.0, 'l': 66, 't': 2.749108}}],
+      dtype=object), '_final_info': array([False, False, False,  True])}
+{}
+{'final_observation': array([None, None,
+       array([ 0.05599204, -0.34427372, -0.20970623, -0.26719898], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 46.0, 'l': 46, 't': 2.751028}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([array([-0.14215535, -0.25007895,  0.22390458,  0.6351459 ], dtype=float32),
+       None, None, None], dtype=object), '_final_observation': array([ True, False, False, False]), 'final_info': array([{'episode': {'r': 15.0, 'l': 15, 't': 2.761394}}, None, None, None],
+      dtype=object), '_final_info': array([ True, False, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None, None,
+       array([ 0.01499815, -0.19827801,  0.23532547,  1.1779602 ], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False, False,  True]), 'final_info': array([None, None, None, {'episode': {'r': 27.0, 'l': 27, 't': 2.769471}}],
+      dtype=object), '_final_info': array([False, False, False,  True])}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None,
+       array([-0.02890343, -0.27207646,  0.22442825,  1.11388   ], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 31.0, 'l': 31, 't': 2.774272}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None, None,
+       array([ 0.07844891, -0.21464393, -0.21612251, -0.1558834 ], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False, False,  True]), 'final_info': array([None, None, None, {'episode': {'r': 21.0, 'l': 21, 't': 2.82005}}],
+      dtype=object), '_final_info': array([False, False, False,  True])}
+{'final_observation': array([None, None,
+       array([ 0.13340841, -0.01457669, -0.21038091, -0.35184667], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 16.0, 'l': 16, 't': 2.821318}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None,
+       array([0.16562736, 0.72719115, 0.20957386, 0.6050115 ], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([False,  True, False, False]), 'final_info': array([None, {'episode': {'r': 76.0, 'l': 76, 't': 2.833523}}, None, None],
+      dtype=object), '_final_info': array([False,  True, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None,
+       array([-0.00752787,  0.2915193 ,  0.21151622,  0.667282  ], dtype=float32),
+       array([ 0.10065344, -0.12111397, -0.2139482 , -0.52209854], dtype=float32),
+       None], dtype=object), '_final_observation': array([False,  True,  True, False]), 'final_info': array([None, {'episode': {'r': 32.0, 'l': 32, 't': 2.857179}},
+       {'episode': {'r': 47.0, 'l': 47, 't': 2.856915}}, None],
+      dtype=object), '_final_info': array([False,  True,  True, False])}
+{}
+{}
+{}
+{'final_observation': array([array([-0.31611666, -0.44965798,  0.21759415,  0.9502127 ], dtype=float32),
+       None, None, None], dtype=object), '_final_observation': array([ True, False, False, False]), 'final_info': array([{'episode': {'r': 86.0, 'l': 86, 't': 2.861893}}, None, None, None],
+      dtype=object), '_final_info': array([ True, False, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None, None,
+       array([-0.26947665, -0.48677754, -0.21125889, -0.85689455], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False, False,  True]), 'final_info': array([None, None, None, {'episode': {'r': 65.0, 'l': 65, 't': 2.870022}}],
+      dtype=object), '_final_info': array([False, False, False,  True])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None, None,
+       array([-0.13557823, -0.16249141,  0.21215877,  0.6310319 ], dtype=float32)],
+      dtype=object), '_final_observation': array([False, False, False,  True]), 'final_info': array([None, None, None, {'episode': {'r': 15.0, 'l': 15, 't': 2.881558}}],
+      dtype=object), '_final_info': array([False, False, False,  True])}
+{'final_observation': array([None,
+       array([0.06330379, 0.5339715 , 0.21403572, 0.37041682], dtype=float32),
+       None, None], dtype=object), '_final_observation': array([False,  True, False, False]), 'final_info': array([None, {'episode': {'r': 33.0, 'l': 33, 't': 2.883148}}, None, None],
+      dtype=object), '_final_info': array([False,  True, False, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{'final_observation': array([None, None,
+       array([-0.08713602, -0.3685991 , -0.21681534, -0.4135336 ], dtype=float32),
+       None], dtype=object), '_final_observation': array([False, False,  True, False]), 'final_info': array([None, None, {'episode': {'r': 46.0, 'l': 46, 't': 2.895485}}, None],
+      dtype=object), '_final_info': array([False, False,  True, False])}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+Traceback (most recent call last):
+  File "ppo.py", line 199, in <module>
+    action, logprob, _, value = agent.get_action_and_value(next_obs)  # roll out phase, no need gradient
+  File "ppo.py", line 61, in get_action_and_value
+    return action, probs.log_prob(action), probs.entropy(), self.critic(x)
+  File "/home/han/.local/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/han/.local/lib/python3.8/site-packages/torch/nn/modules/container.py", line 217, in forward
+    input = module(input)
+  File "/home/han/.local/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/han/.local/lib/python3.8/site-packages/torch/nn/modules/linear.py", line 114, in forward
+    return F.linear(input, self.weight, self.bias)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "ppo.py", line 199, in <module>
+    action, logprob, _, value = agent.get_action_and_value(next_obs)  # roll out phase, no need gradient
+  File "ppo.py", line 61, in get_action_and_value
+    return action, probs.log_prob(action), probs.entropy(), self.critic(x)
+  File "/home/han/.local/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/han/.local/lib/python3.8/site-packages/torch/nn/modules/container.py", line 217, in forward
+    input = module(input)
+  File "/home/han/.local/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/han/.local/lib/python3.8/site-packages/torch/nn/modules/linear.py", line 114, in forward
+    return F.linear(input, self.weight, self.bias)
+KeyboardInterrupt

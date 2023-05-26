@@ -1,0 +1,86 @@
+envs.single_observation_space.shape (4,)
+envs.single_action_space.n 2
+Agent(
+  (critic): Sequential(
+    (0): Linear(in_features=4, out_features=64, bias=True)
+    (1): Tanh()
+    (2): Linear(in_features=64, out_features=64, bias=True)
+    (3): Tanh()
+    (4): Linear(in_features=64, out_features=1, bias=True)
+  )
+  (actor): Sequential(
+    (0): Linear(in_features=4, out_features=64, bias=True)
+    (1): Tanh()
+    (2): Linear(in_features=64, out_features=64, bias=True)
+    (3): Tanh()
+    (4): Linear(in_features=64, out_features=2, bias=True)
+  )
+)
+Moviepy - Building video /home/han/Documents/ppo/videos/CartPole-v1_ppo_1_1685074067/rl-video-episode-0.mp4.
+Moviepy - Writing video /home/han/Documents/ppo/videos/CartPole-v1_ppo_1_1685074067/rl-video-episode-0.mp4
+Moviepy - Done !
+Moviepy - video ready /home/han/Documents/ppo/videos/CartPole-v1_ppo_1_1685074067/rl-video-episode-0.mp4
+Moviepy - Building video /home/han/Documents/ppo/videos/CartPole-v1_ppo_1_1685074067/rl-video-episode-1.mp4.
+Moviepy - Writing video /home/han/Documents/ppo/videos/CartPole-v1_ppo_1_1685074067/rl-video-episode-1.mp4
+Moviepy - Done !
+Moviepy - video ready /home/han/Documents/ppo/videos/CartPole-v1_ppo_1_1685074067/rl-video-episode-1.mp4
+SPS: 902
+Moviepy - Building video /home/han/Documents/ppo/videos/CartPole-v1_ppo_1_1685074067/rl-video-episode-8.mp4.
+Moviepy - Writing video /home/han/Documents/ppo/videos/CartPole-v1_ppo_1_1685074067/rl-video-episode-8.mp4
+Moviepy - Done !
+Moviepy - video ready /home/han/Documents/ppo/videos/CartPole-v1_ppo_1_1685074067/rl-video-episode-8.mp4
+SPS: 1338
+SPS: 1765
+SPS: 2100
+Moviepy - Building video /home/han/Documents/ppo/videos/CartPole-v1_ppo_1_1685074067/rl-video-episode-27.mp4.
+Moviepy - Writing video /home/han/Documents/ppo/videos/CartPole-v1_ppo_1_1685074067/rl-video-episode-27.mp4
+Moviepy - Done !
+Moviepy - video ready /home/han/Documents/ppo/videos/CartPole-v1_ppo_1_1685074067/rl-video-episode-27.mp4
+SPS: 2230
+SPS: 2439
+SPS: 2617
+SPS: 2778
+SPS: 2922
+SPS: 3049
+SPS: 3160
+SPS: 3259
+SPS: 3349
+SPS: 3431
+SPS: 3504
+Moviepy - Building video /home/han/Documents/ppo/videos/CartPole-v1_ppo_1_1685074067/rl-video-episode-64.mp4.
+Moviepy - Writing video /home/han/Documents/ppo/videos/CartPole-v1_ppo_1_1685074067/rl-video-episode-64.mp4
+Moviepy - Done !
+Moviepy - video ready /home/han/Documents/ppo/videos/CartPole-v1_ppo_1_1685074067/rl-video-episode-64.mp4
+SPS: 3341
+SPS: 3405
+SPS: 3465
+SPS: 3522
+SPS: 3571
+SPS: 3616
+SPS: 3661
+SPS: 3703
+SPS: 3743
+SPS: 3779
+SPS: 3812
+SPS: 3846
+SPS: 3878
+SPS: 3908
+SPS: 3936
+SPS: 3963
+SPS: 3988
+SPS: 4012
+SPS: 4034
+SPS: 4056
+SPS: 4077
+SPS: 4097
+SPS: 4117
+SPS: 4135
+SPS: 4153
+SPS: 4170
+SPS: 4187
+SPS: 4202
+SPS: 4217
+SPS: 4231
+SPS: 4244
+SPS: 4258
+SPS: 4271

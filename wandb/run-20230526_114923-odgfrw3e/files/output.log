@@ -1,0 +1,22 @@
+envs.single_observation_space.shape (4,)
+envs.single_action_space.n 2
+Moviepy - Building video /home/han/Documents/ppo/videos/CartPole-v1_ppo_1_1685076561/rl-video-episode-0.mp4.
+Moviepy - Writing video /home/han/Documents/ppo/videos/CartPole-v1_ppo_1_1685076561/rl-video-episode-0.mp4
+Moviepy - Done !
+Moviepy - video ready /home/han/Documents/ppo/videos/CartPole-v1_ppo_1_1685076561/rl-video-episode-0.mp4
+Moviepy - Building video /home/han/Documents/ppo/videos/CartPole-v1_ppo_1_1685076561/rl-video-episode-1.mp4.
+Moviepy - Writing video /home/han/Documents/ppo/videos/CartPole-v1_ppo_1_1685076561/rl-video-episode-1.mp4
+Moviepy - Done !
+Moviepy - video ready /home/han/Documents/ppo/videos/CartPole-v1_ppo_1_1685076561/rl-video-episode-1.mp4
+Moviepy - Building video /home/han/Documents/ppo/videos/CartPole-v1_ppo_1_1685076561/rl-video-episode-8.mp4.
+Moviepy - Writing video /home/han/Documents/ppo/videos/CartPole-v1_ppo_1_1685076561/rl-video-episode-8.mp4
+Moviepy - Done !
+Moviepy - video ready /home/han/Documents/ppo/videos/CartPole-v1_ppo_1_1685076561/rl-video-episode-8.mp4
+Moviepy - Building video /home/han/Documents/ppo/videos/CartPole-v1_ppo_1_1685076561/rl-video-episode-27.mp4.
+Moviepy - Writing video /home/han/Documents/ppo/videos/CartPole-v1_ppo_1_1685076561/rl-video-episode-27.mp4
+Moviepy - Done !
+Moviepy - video ready /home/han/Documents/ppo/videos/CartPole-v1_ppo_1_1685076561/rl-video-episode-27.mp4
+Moviepy - Building video /home/han/Documents/ppo/videos/CartPole-v1_ppo_1_1685076561/rl-video-episode-64.mp4.
+Moviepy - Writing video /home/han/Documents/ppo/videos/CartPole-v1_ppo_1_1685076561/rl-video-episode-64.mp4
+Moviepy - Done !
+Moviepy - video ready /home/han/Documents/ppo/videos/CartPole-v1_ppo_1_1685076561/rl-video-episode-64.mp4

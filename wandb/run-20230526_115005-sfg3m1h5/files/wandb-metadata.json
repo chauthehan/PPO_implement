@@ -1,0 +1,128 @@
+{
+    "os": "Linux-5.15.0-72-generic-x86_64-with-glibc2.29",
+    "python": "3.8.10",
+    "heartbeatAt": "2023-05-26T04:50:06.675973",
+    "startedAt": "2023-05-26T04:50:05.481203",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--track",
+        "--capture-video"
+    ],
+    "state": "running",
+    "program": "ppo.py",
+    "codePath": "ppo.py",
+    "git": {
+        "remote": null,
+        "commit": "133ac557befa8bd0365067dcbb2fff548963c71b"
+    },
+    "email": "chauthehan00@gmail.com",
+    "root": "/home/han/Documents/ppo",
+    "host": "hanct",
+    "username": "han",
+    "executable": "/usr/bin/python3",
+    "cpu_count": 10,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 1035.0940624999998,
+        "min": 800.0,
+        "max": 4275.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1682.912,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 1041.789,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 1388.893,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 1476.898,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 1648.786,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 1530.92,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 1135.981,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 1671.025,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2751.381,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 1041.347,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 2251.826,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 1947.336,
+            "min": 800.0,
+            "max": 4600.0
+        },
+        {
+            "current": 1165.568,
+            "min": 800.0,
+            "max": 3300.0
+        },
+        {
+            "current": 807.062,
+            "min": 800.0,
+            "max": 3300.0
+        },
+        {
+            "current": 801.557,
+            "min": 800.0,
+            "max": 3300.0
+        },
+        {
+            "current": 800.009,
+            "min": 800.0,
+            "max": 3300.0
+        }
+    ],
+    "disk": {
+        "total": 456.8854446411133,
+        "used": 62.59626007080078
+    },
+    "gpu": "NVIDIA GeForce GTX 1080",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1080",
+            "memory_total": 8589934592
+        }
+    ],
+    "memory": {
+        "total": 31.16672134399414
+    }
+}
